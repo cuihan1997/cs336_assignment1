@@ -1,1 +1,1 @@
-# cs336_assignment1
+# cs336 assignment1 code
